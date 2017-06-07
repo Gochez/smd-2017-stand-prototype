@@ -37,6 +37,10 @@ Each of the seven buttons is attached to a digital pin in the arduino. Aditional
 
 This project was made with Arduino communicating with Python through serial port.
 
+The Arduino code can be found in this [.ino document.](https://github.com/Gochez/smd-2017-stand-prototype/blob/master/smd-stand-prototype/smd-stand-prototype.ino)
+
+The Python code can be found in this [jupyter notebook.](https://github.com/Gochez/smd-2017-stand-prototype/blob/master/smd-stand-prototype/smd-stand-prototype.ipynb)
+
 The following table resumes the software and their recomended versions:
 
 
