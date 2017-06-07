@@ -35,7 +35,7 @@ Each of the seven buttons is attached to a digital pin in the arduino. Aditional
 ### The Software
 ***
 
-This project was made with Arduino communication with Python through serial port.
+This project was made with Arduino communicating with Python through serial port.
 
 The following table resumes the software and their recomended versions:
 
